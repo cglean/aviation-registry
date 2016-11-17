@@ -1,5 +1,5 @@
 applications:
 - name: aviation-registry
   memory: 512MB
-  host: aviation-registry-service
+  host: aviation-registry-service1
   path: target/aviation-registry-0.0.1-SNAPSHOT.jar
